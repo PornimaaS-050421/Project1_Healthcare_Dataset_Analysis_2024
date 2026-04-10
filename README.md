@@ -1,2 +1,1 @@
-# Project1_Healthcare_Dataset_Analysis_2024
-This project is about Healthcare Dataset Analysis using Excel.
+This project is about Healthcare Dataset Analysis using Excel. Cleaned ,Sorted, Removed duplicates, Functions and Data Validation Tools are used, Lookups also used as per the Client reqirements. After that, Created Pivot tables ,Slicer and Pivot charts. Finally Dashboard was Created and Presentation also prepared related to this project.
