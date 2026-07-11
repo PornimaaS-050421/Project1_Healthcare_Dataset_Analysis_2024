@@ -1,4 +1,4 @@
-Hospital Dataset Analytics Dashboard
+Hospital Patient Analytics Dashboard
 
 Project Overview
 
