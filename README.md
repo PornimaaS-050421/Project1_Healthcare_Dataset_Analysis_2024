@@ -1,4 +1,3 @@
-Sales-Dataset-Analysis-Dashboard
 E-Commerce Sales Performance Dashboard
 
 Project Overview
