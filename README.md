@@ -1,38 +1,34 @@
-Sales Performance Dashboard
+E-Commerce Sales Performance Dashboard
 
 Project Overview
 
-This Power BI dashboard provides a comprehensive analysis of sales performance by tracking revenue, profit, customer behavior, and key business metrics. The dashboard helps identify trends, monitor KPIs, and support data-driven decision-making.
+An interactive Ecommerce Sales Performance Dashboard created in Microsoft Excel to analyze sales performance, customer trends, and business insights. The dashboard helps track key metrics and supports data-driven decision making.
 
 Tools Used
 
-Power BI
-Power Query
-DAX
-Data Modeling
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Conditional Formatting
+* Data Analysis
+
 Key Features
 
-Revenue Analysis
-Profit Analysis
-Sales Trend Monitoring
-Customer Insights
-KPI Tracking
-Interactive Filters and Navigation
-Dashboard Preview
+* Sales Performance Analysis
+* Revenue and Profit Tracking
+* Customer Insights
+* Product Category Analysis
+* Interactive Filters and Slicers
+* KPI Dashboard
 
-"Dashboard Screenshot" (dashboard.png)
-
-Key Metrics
-
-Total Sales
-Total Revenue
-Total Profit
-Customer Count
-Product Performance
-Regional Performance
 Business Insights
 
-Identifies top-performing products and categories
-Tracks revenue and profit trends over time
-Highlights customer purchasing behavior
-Supports business decision-making through KPI monitoring
+* Identifies top-performing products and categories
+* Tracks sales trends over time
+* Monitors key business KPIs
+* Supports sales forecasting and decision making
+
+Dashboard Preview
+
+"Sales Dashboard Screenshot" (Healthcare_Dataset_Analysis_Dashboard-2024.png)
